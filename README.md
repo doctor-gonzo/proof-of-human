@@ -66,13 +66,13 @@ From [commonsensereasoning.org](commonsensereasoning.org):
 
 If an implementation of the `WSC contract` could create an incentive to attack the contract to earn money (normal people at normal speeds could do them at a rate generating small $, perhaps from a small fee paid by `dApp` for authentication) wheras someone who had solved the underlying WSC problem could make a lot of money all at once (good for them) and drain the contract (good for us, because it shows that the scheme is no longer a feasible means of proving humanity). **As long as the WSC Conract remains un-drained, you are given the guarantee that nobody has built an AI capable of cracking it, OR that the monetary value of keeping such an AI a secret exceeds the economic value of breaking the WSC contract + [the $25,000 being offered for solving the underlying WSC problem](http://commonsensereasoning.org/winograd.html)**. A breakthrough like this would show that a large chunk of the necessary work towards general machine intelligence had been done. As the potential monetary prize for breaking this contract increased (perhaps as a function of total use?), it would become more likely that the development of such AI technology would be revealed through the draining of the contract, and a more reliable indicator for the level of our language-processing AI progress.
 
-#### Steps / Challenges in transforming this from an idea to a program
+#### Steps in transforming this from an idea to a reliable program
 
 - [ ] Formatting this [collection of example Winograd Schemas](https://cs.nyu.edu/faculty/davise/papers/WinogradSchemas/WSCollection.html) so as to be usable by a `WSC Program`
 
 - [ ] Learning how to interact more proficiently with github, and building an application which provably references a github repository as a basis for trust / auditability
 
-- [ ] Continuing to explore whether the role of the `WSC Program` can be fully decentralized - the reason it is hard is because of the nature of messages sent over the blockchain and the fact that they cannot be encrypted so as to be visible to the smart contract but nobody else. More information about this particular issue in available in the [section below](https://github.com/doctor-gonzo/proof-of-human/blob/master/README.md#things-i-have-learned-while-creating-this-document) 
+- [ ] Continuing to explore whether the role of the `WSC Program` can be fully decentralized - the reason it is hard is because of the nature of messages sent over the blockchain and the fact that they cannot be encrypted so as to be visible to the smart contract but nobody else. More information about this particular issue in available in the [section below](https://github.com/doctor-gonzo/proof-of-human#decentralization--centralization-nature-of-the-wsc-program) 
 
 - [ ] Guaranteeing that my program can't be solved instead of the underlying WSC: try to formally prove that my implementation is not predictable, which would remove the guarantee of humanity provided by WSCs
 
