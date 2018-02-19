@@ -72,7 +72,7 @@ If an implementation of the `WSC contract` could create an incentive to attack t
 
 - [ ] Learning how to interact more proficiently with github, and building an application which provably references a github repository as a basis for trust / auditability
 
-- [ ] Continuing to explore whether the role of the `WSC Program` can be fully decentralized - the reason it is hard is because of the nature of messages sent over the blockchain and the fact that they cannot be encrypted so as to be visible to the smart contract but nobody else. More information about this particular issue in available in the [section below](https://github.com/doctor-gonzo/proof-of-human#decentralization--centralization-nature-of-the-wsc-program) 
+- [ ] Continuing to explore whether the role of the `WSC Program` can be fully decentralized - the reason it is hard is because of the nature of messages sent over the blockchain and the fact that they cannot be encrypted so as to be visible to the smart contract but nobody else. More information about this particular issue in available in the [section below](https://github.com/doctor-gonzo/proof-of-human#things-i-have-learned-while-creating-this-document) 
 
 - [ ] Guaranteeing that my program can't be solved instead of the underlying WSC: try to formally prove that my implementation is not predictable, which would remove the guarantee of humanity provided by WSCs
 
